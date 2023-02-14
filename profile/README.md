@@ -1,4 +1,4 @@
-## OpenXPU
+## OpenXPU a maintainer of the OpenPAI
 
 Since Microsoft has stopped the maintance of OpenPAI project in December 2022, OpenXPU will continue project：
 
